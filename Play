@@ -1,0 +1,528 @@
+#EXTM3U
+#EXTINF:0,GLOBO SP FULL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16146
+#EXTINF:0,GLOBO SP FULL HD H265²#EXTINF:0,GLOBO RJ FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30559
+#EXTINF:0,GLOBO RJ HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14882
+#EXTINF:0,GLOBO RJ HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30561
+#EXTINF:0,GLOBO RJ SD H264#EXTINF:0,GLOBO MINAS HD ²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30566
+#EXTINF:0,GLOBO MINAS SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19240
+#EXTINF:0,POWER COUPLE BRASIL 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38299
+#EXTINF:0,RECORD FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30360
+#EXTINF:0,RECORD HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30362
+#EXTINF:0,RECORD SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19194
+#EXTINF:0,RECORD SP HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14695
+#EXTINF:0,RECORD SP HD ²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30364
+#EXTINF:0,RECORD SAO JOSE DO RIO PRETO HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38389
+#EXTINF:0,RECORD RJ HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30351
+#EXTINF:0,RECORD RJ SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30352
+#EXTINF:0,RECORD MG HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38388
+#EXTINF:0,RECORD MG HD ²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30353
+#EXTINF:0,RECORD MG SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30354
+#EXTINF:0,RECORD MG TV PARANAIBA UBERLANDIA  HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38395
+#EXTINF:0,RECORD DF HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30355
+#EXTINF:0,RECORD  - TV LESTE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://187.85.236.182:8161/live/ELHIAMARIAMONTEIRODEFARIASNOBREGA/874957/19.ts
+#EXTINF:0,RECORD TV LESTE ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27592
+#EXTINF:0,RECORD PARANA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27283
+#EXTINF:0,RECORD SANTA CATARINA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27281
+#EXTINF:0,RECORD SERGIPE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27282
+#EXTINF:0,RECORD BA HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30357
+#EXTINF:0,RECORD BA SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30358
+#EXTINF:0,RECORD BA TV CABRALIA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38391
+#EXTINF:0,RECORD DF SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30356
+#EXTINF:0,RECORD RS HD ²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30349
+#EXTINF:0,RECORD RS SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30350
+#EXTINF:0,RECORD TV SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30363
+#EXTINF:0,RECORD TV BELEM HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38392
+#EXTINF:0,RECORD SANTOS TV LITORAL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38394
+#EXTINF:0,BAND FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30372
+#EXTINF:0,BAND HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14849
+#EXTINF:0,BAND HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30374
+#EXTINF:0,BAND SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30375
+#EXTINF:0,BAND GOIANIA FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16108
+#EXTINF:0,BAND MINAS ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27590
+#EXTINF:0,BAND PARANA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27285
+#EXTINF:0,BAND SERGIPE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27284
+#EXTINF:0,BAND CAMPINAS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38387
+#EXTINF:0,BAND CAMPINAS HD ²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30370
+#EXTINF:0,BAND BA SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38393
+#EXTINF:0,SBT HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30368
+#EXTINF:0,SBT SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19195
+#EXTINF:0,SBT SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30369
+#EXTINF:0,SBT - TV ALTEROSA FULL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16143
+#EXTINF:0,SBT - TV ALTEROSA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://187.85.236.182:8161/live/ELHIAMARIAMONTEIRODEFARIASNOBREGA/874957/17.ts
+#EXTINF:0,SBT - TV ALTEROSA ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27593
+#EXTINF:0,SBT SP HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14690
+#EXTINF:0,SBT MG DIVINOPOLIS SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38396
+#EXTINF:0,SBT SERRA DOURADA FULL HD 265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16109
+#EXTINF:0,SBT PARANA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27280
+#EXTINF:0,SBT SANTA CATARINA HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27278
+#EXTINF:0,SBT SERGIPE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27279
+#EXTINF:0,SBT TV CIDADE VERDE HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30367
+#EXTINF:0,SBT BA TV ARATU HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38390
+#EXTINF:0,SBT TV JORNAL HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30366
+#EXTINF:0,REDETV FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27098
+#EXTINF:0,REDE TV HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14693
+#EXTINF:0,REDE TV HD ²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30347
+#EXTINF:0,REDE TV SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30348
+#EXTINF:0,REDETV ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27591
+#EXTINF:0,REDE MINAS - TV RIO DOCE ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27606
+#EXTINF:0,NBR SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30346
+#EXTINF:0,NBR ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27597
+#EXTINF:0,SUPER TV ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27604
+#EXTINF:0,TV GAZETA SP HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38386
+#EXTINF:0,TV GAZETA SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30342
+#EXTINF:0,GAZETA ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27603
+#EXTINF:0,TV ASSEMBLEIA MG ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27600
+#EXTINF:0,TV CAMERA SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19192
+#EXTINF:0,TV JUSTICA SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/20447
+#EXTINF:0,TV JUSTICA SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30338
+#EXTINF:0,TV JUSTICA ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27599
+#EXTINF:0,SPORTV FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16127
+#EXTINF:0,SPORTV FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30386
+#EXTINF:0,SPORTV HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14678
+#EXTINF:0,SPORTV HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30387
+#EXTINF:0,SPORTV SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19208
+#EXTINF:0,SPORTV SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30388
+#EXTINF:0,SPORTV ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27624
+#EXTINF:0,SPORTV 2 FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16126
+#EXTINF:0,SPORTV 2 FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30382
+#EXTINF:0,SPORTV 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14676
+#EXTINF:0,SPORTV 2 HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30384
+#EXTINF:0,SPORTV 2 SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19209
+#EXTINF:0,SPORTV 2 SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30385
+#EXTINF:0,SPORTV 2 ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27625
+#EXTINF:0,SPORTV 3 FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16125
+#EXTINF:0,SPORTV 3 FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30377
+#EXTINF:0,SPORTV 3 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14674
+#EXTINF:0,SPORTV 3 HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30379
+#EXTINF:0,SPORTV 3 SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30380
+#EXTINF:0,FOX SPORTS FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16124
+#EXTINF:0,FOX SPORTS FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30393
+#EXTINF:0,FOX SPORTS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14777
+#EXTINF:0,FOX SPORTS  HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30395
+#EXTINF:0,FOX SPORTS SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30396
+#EXTINF:0,FOX SPORTS SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19210
+#EXTINF:0,FOX SPORTS ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27620
+#EXTINF:0,FOX SPORTS 2 FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16123
+#EXTINF:0,FOX SPORTS 2 FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30397
+#EXTINF:0,FOX SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14775
+#EXTINF:0,FOX SPORTS 2 HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30391
+#EXTINF:0,FOX SPORTS 2 SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19211
+#EXTINF:0,FOX SPORTS 2 SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30392
+#EXTINF:0,FOX SPORTS 2 ***
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27619
+#EXTINF:0,COMBATE FULL HD H265
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/16122
+#EXTINF:0,COMBATE FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30414
+#EXTINF:0,COMBATE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14831
+#EXTINF:0,COMBATE HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30416
+#EXTINF:0,COMBATE SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19207
+#EXTINF:0,COMBATE SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30417
+#EXTINF:0,DAZN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38902
+#EXTINF:0,EI PLUS HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/27389
+#EXTINF:0,EI PLUS TRANSMISSSÃO 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/29884
+#EXTINF:0,EI PLUS TRANSMISSÃO 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/29885
+#EXTINF:0,EI PLUS HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
+#EXTINF:0,EI PLUS 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&access_token=vo78ioJG4DwocV92gG7DIJ6gc5wUUL1iLNAhgYsNpiraBAZS5z4JGkwSKX1Xr6UB9vptXOMiFvS&ref=https%3A%2F%2Fwww.eiplus.com.br%2Fcanal%2F45%2Fpalmeiras-x-santos%2F&es=mdstrmpmd-a.akamaihd.net&proto=https&pz=br&hdnts=ip=191.37.24.1~exp=1558230158~acl=/live-stream-secure/5801255b39c38e1109ddfabd/*~hmac=8d67410744032ce086c9a4a0f9834ef4cc8d8486fd9752c5705385fbcc966986
+#EXTINF:0,ESPN FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30404
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/14796
+#EXTINF:0,ESPN HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30406
+#EXTINF:0,ESPN SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19212
+#EXTINF:0,ESPN SD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30407
+#EXTINF:0,ESPN 2 FULL HD H265²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30401
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/38425
+#EXTINF:0,ESPN 2 HD²
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/30403
+#EXTINF:0,ESPN 2 SD H264
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cipl.xyz:8880/Juniomelorio/Sapato2019/19213
+#EXTINF:0,ESPN BRASIL FULL HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
